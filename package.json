@@ -9,15 +9,18 @@
   "dependencies": {
     "leaflet": "^1.6.0",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react-dom": "^16.12.0",
+    "react-leaflet": "^2.6.0"
   },
   "devDependencies": {
     "@types/leaflet": "^1.5.5",
     "@types/parcel-bundler": "^1.12.1",
     "@types/react": "^16.9.13",
     "@types/react-dom": "^16.9.4",
+    "@types/react-leaflet": "^2.5.0",
     "@types/webpack-env": "^1.14.1",
     "parcel-bundler": "^1.12.4",
+    "sass": "^1.23.7",
     "typescript": "^3.7.2"
   }
 }

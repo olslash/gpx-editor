@@ -1,7 +1,10 @@
 import * as React from "react";
 import { render } from "react-dom";
+import { Map } from "./src/components/Map";
 
-const App: React.SFC = () => <h1>Hello world</h1>;
+const App: React.SFC = () => {
+  return <Map />;
+};
 
 render(<App />, document.getElementById("root"));
 
